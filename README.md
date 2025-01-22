@@ -1,7 +1,7 @@
 # Micro:BOT Educational Board Overview
 
 ## Introduction of Micro:Bot
-Micro:Bot is an educational board that using Atmega328p the microcontroller from the AVR family developed by Microchip Technology (formerly Atmel). It is widely used in embedded systems and robotics projects due to its simplicity, low power consumption, and support for a broad range of peripherals. On board Micro:Bot is the basic of robotics with 4 motors, buzzer, button, RGB, servo pinout, IO pinout and with multi protocol communications such as SPI, I2C and UART. The Micro:BOT is designed to offer students, hobbyists, and engineers a robust platform for learning and implementing robotics and automation concepts.
+Micro:Bot is an educational board that is a microcontroller board based on the ATmega328P (datasheet). It is widely used in embedded systems and robotics projects due to its simplicity, low power consumption, and support for a broad range of peripherals. On board Micro:Bot is the basic of robotics with 4 motors, buzzer, button, RGB, servo pinout, IO pinout and with multi protocol communications such as SPI, I2C and UART. The Micro:BOT is designed to offer students, hobbyists, and engineers a robust platform for learning and implementing robotics and automation concepts.
 
 ## Core Features and Capabilities
 ### 1. Microcontroller Core:
