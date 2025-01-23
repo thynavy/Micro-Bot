@@ -5,7 +5,9 @@ Micro:Bot is an educational board that is a microcontroller board based on the A
 
 ![Micro:BOT](https://github.com/thynavy/Micro-Bot/blob/main/Picture/Micro_BOT_1111.png)
 <figure>
-  <figcaption>Figure 1: The Micro:BOT board</figcaption>
+  <p align="center">
+    <figcaption>Figure 1: The Micro:BOT board</figcaption>
+  </p>
 <figure>
   
 ## Core Features and Capabilities
