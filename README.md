@@ -5,7 +5,7 @@ Micro:Bot is an educational board that is a microcontroller board based on the A
 
 ![Micro:BOT](https://github.com/thynavy/Micro-Bot/blob/main/Picture/Micro_BOT_1111.png)
 
-You can find your board's warranty information or any discount [here.](https://github.com/thynavy/Micro-Bot)
+You can find your board's warranty information or any discount [here](https://github.com/thynavy/Micro-Bot).
 
 # **Getting started with Micro:BOT**
 Welcome to Micro:BOT! Before you start controlling the world around you, you'll need to set up the software to program your board. The [Arduino Software (IDE)](https://www.arduino.cc/en/software) allows you to write programs and upload them to your board. Install the Arduino Desktop IDE and To get step-by-step instructions select one of the following link according to your operating system as below:
@@ -20,7 +20,7 @@ Choose your board in the list here on the right to learn how to get started with
   - Read an introduction on what is [Micro:BOT](https://github.com/thynavy/Micro-Bot) and why you'd want to use it.
   - What is the [Arduino Software (IDE)](https://www.arduino.cc/en/software) with Micro:BOT board?
   - [Libraries](https://github.com/thynavy/Micro-Bot): Using and installing STEAMxLAB Libraries.
-Making the Micro:BOT Starter Kit projects and reading the book ['Getting Started with Micro:BOT'](https://github.com/thynavy/Micro-Bot) are great ways to start learning and tinkering with coding and electronics.
+Making the Micro:BOT Starter Kit projects and reading the book '[Getting Started with Micro:BOT](https://github.com/thynavy/Micro-Bot)' are great ways to start learning and tinkering with coding and electronics.
 
 ## General Care - Cleaning Your Board
 Now you know how to get started with your Micro:BOT board, so here are a few basic tips on caring for your Micro:BOT in the future:
@@ -35,29 +35,29 @@ Finally, please wash your hands.
 
 ![Micro:BOT](https://github.com/thynavy/Micro-Bot/blob/main/Picture/MicroBOT.drawio.png)
 
-Download the full pinout diagram as PDF [here.](https://github.com/thynavy/Micro-Bot)
+Download the full pinout diagram as PDF [here](https://github.com/thynavy/Micro-Bot).
 
 ## Core Features and Capabilities
 ### 1. Microcontroller Core:
   - Powered by the ATmega328P, an 8-bit microcontroller featuring 32 KB flash memory, 2 KB SRAM, and 1 KB EEPROM (which can be read and written with the [EEPROM library](https://docs.arduino.cc/learn/built-in-libraries/eeprom/)).
 ### 2. Motor Control:
-  - Supports 4 motor outputs, enabling easy implementation of motor-driven robotic systems. [_**Example with Motor Control**_](https://github.com/thynavy/Micro-Bot)
+  - Supports 4 motor outputs, enabling easy implementation of motor-driven robotic systems. [_Example with Motor Control_](https://github.com/thynavy/Micro-Bot)
 ### 3. On-Board Components for Learning and Development:
-  - Buzzer: Integrated for sound feedback and signaling. [_**Example with Buzzer**_](https://github.com/thynavy/Micro-Bot)
-  - Button: For user input and control. [_**Example with Button**_](https://github.com/thynavy/Micro-Bot)
-  - RGB LED: Provides color-coded visual feedback. [_**Example with RGB**_](https://github.com/thynavy/Micro-Bot)
+  - Buzzer: Integrated for sound feedback and signaling. [_Example with Buzzer_](https://github.com/thynavy/Micro-Bot)
+  - Button: For user input and control. [_Example with Button_](https://github.com/thynavy/Micro-Bot)
+  - RGB LED: Provides color-coded visual feedback. [_Example with RGB_](https://github.com/thynavy/Micro-Bot)
 ### 4. Servo and I/O Pinouts:
-  - Servo motor control pinout for handling precise position control applications. [_**Example with Servo motor control**_](https://github.com/thynavy/Micro-Bot)
-  - General I/O pinout for connecting external sensors, actuators, and other peripherals. [_**Example with General I/O**_](https://github.com/thynavy/Micro-Bot)
+  - Servo motor control pinout for handling precise position control applications. [_Example with Servo motor control_](https://github.com/thynavy/Micro-Bot)
+  - General I/O pinout for connecting external sensors, actuators, and other peripherals. [_Example with General I/O_](https://github.com/thynavy/Micro-Bot)
 ### 5. Communication Interfaces:
-  - SPI (Serial Peripheral Interface). [_**Example with SPI communication (nRF24L01)**_](https://github.com/thynavy/Micro-Bot)
-  - I²C (Inter-Integrated Circuit). [_**Example with I2C protocol**_](https://github.com/thynavy/Micro-Bot)
-  - UART (Universal Asynchronous Receiver-Transmitter). [_**Example with UART communication (Bluetooth)**_](https://github.com/thynavy/Micro-Bot)
+  - SPI (Serial Peripheral Interface). [_Example with SPI communication (nRF24L01)_](https://github.com/thynavy/Micro-Bot)
+  - I²C (Inter-Integrated Circuit). [_Example with I2C protocol_](https://github.com/thynavy/Micro-Bot)
+  - UART (Universal Asynchronous Receiver-Transmitter). [_Example with UART communication (Bluetooth)_](https://github.com/thynavy/Micro-Bot)
 
 ## Applications
-  - **Educational Robotics**: Teaching robotics fundamentals such as motor control, sensor integration, and embedded systems programming. [_**Example with Robotics**_](https://github.com/thynavy/Micro-Bot)
-  - **Automation Projects**: Designing simple automation tasks and smart systems. [_**Example with Automation**_](https://github.com/thynavy/Micro-Bot)
-  - **DIY Electronics**: Developing personal electronics projects with robust communication options. [_**Example with DIY Electronics**_](https://github.com/thynavy/Micro-Bot)
+  - **Educational Robotics**: Teaching robotics fundamentals such as motor control, sensor integration, and embedded systems programming. [_Example with Robotics_](https://github.com/thynavy/Micro-Bot)
+  - **Automation Projects**: Designing simple automation tasks and smart systems. [_Example with Automation_](https://github.com/thynavy/Micro-Bot)
+  - **DIY Electronics**: Developing personal electronics projects with robust communication options. [_Example with DIY Electronics_](https://github.com/thynavy/Micro-Bot)
 
 ## Advantages
   - User-Friendly Design: Simplified interface for beginners and advanced users.
