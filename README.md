@@ -42,7 +42,7 @@ Download the full pinout diagram as PDF [here](https://github.com/thynavy/Micro-
 ## Technical Specifications
 
 | **Feature**      | **Description**      |
-|------------------    |-----------------    |
+|------------------------    |---------------------------------------------------    |
 | Microcontroller        | ATmega328P        |
 | Operating Voltage       | 5V       |
 | Input Voltage (recommended)        | 7-12V       |
@@ -62,7 +62,7 @@ Download the full pinout diagram as PDF [here](https://github.com/thynavy/Micro-
 | MOTOR4_BUILTIN      | motor4      |
 | Servo Motor PIN      | servoMotor      |
 | Analog PIN      | A0, A1, A2, A3      |
-| I/O Digital PIN      | ioOutput, ioInput      |
+| I/O Digital PIN      | ioRead, ioWrite      |
 | nRF24L01 PIN      | nrfTransmit, nrfReceiver      |
 | Bluetooth PIN      | Rx, Tx, GND, 5V      |
 | I²C protocol PIN      | SDA, SCL, GND, 5V       |
