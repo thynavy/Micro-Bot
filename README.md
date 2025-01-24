@@ -39,118 +39,37 @@ Finally, please wash your hands.
 
 Download the full pinout diagram as PDF [here](https://github.com/thynavy/Micro-Bot).
 
-# Micro:BOT Specifications
+## Micro:BOT Specifications
 
-<table style="width:100%; text-align:center;">
-  <tr>
-    <th>Feature</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>Microcontroller</td>
-    <td>ATmega328P</td>
-  </tr>
-  <tr>
-    <td>Operating Voltage</td>
-    <td>5V</td>
-  </tr>
-  <tr>
-    <td>Input Voltage (recommended)</td>
-    <td>7-12V</td>
-  </tr>
-  <tr>
-    <td>Input Voltage (limit)</td>
-    <td>6-18V</td>
-  </tr>
-  <tr>
-    <td>DC Current per I/O Pin</td>
-    <td>20 mA</td>
-  </tr>
-  <tr>
-    <td>DC Current for 3.3V Pin</td>
-    <td>50 mA</td>
-  </tr>
-  <tr>
-    <td>Flash Memory</td>
-    <td>32 KB (ATmega328P), 0.5 KB used by bootloader</td>
-  </tr>
-  <tr>
-    <td>SRAM</td>
-    <td>2 KB (ATmega328P)</td>
-  </tr>
-  <tr>
-    <td>EEPROM</td>
-    <td>1 KB (ATmega328P)</td>
-  </tr>
-  <tr>
-    <td>Clock Speed</td>
-    <td>16 MHz</td>
-  </tr>
-  <tr>
-    <td>BUTTON_BUILTIN</td>
-    <td>Button</td>
-  </tr>
-  <tr>
-    <td>BUZZER_BUILTIN</td>
-    <td>buzzerPin</td>
-  </tr>
-  <tr>
-    <td>RGB_BUILTIN</td>
-    <td>rgbPin</td>
-  </tr>
-  <tr>
-    <td>MOTOR1_BUILTIN</td>
-    <td>motor1</td>
-  </tr>
-  <tr>
-    <td>MOTOR2_BUILTIN</td>
-    <td>motor2</td>
-  </tr>
-  <tr>
-    <td>MOTOR3_BUILTIN</td>
-    <td>motor3</td>
-  </tr>
-  <tr>
-    <td>MOTOR4_BUILTIN</td>
-    <td>motor4</td>
-  </tr>
-  <tr>
-    <td>Servo Motor PIN</td>
-    <td>servoMotor</td>
-  </tr>
-  <tr>
-    <td>Analog PIN</td>
-    <td>A0, A1, A2, A3</td>
-  </tr>
-  <tr>
-    <td>I/O Digital PIN</td>
-    <td>ioRead, ioWrite</td>
-  </tr>
-  <tr>
-    <td>nRF24L01 PIN</td>
-    <td>nrfTransmit, nrfReceiver</td>
-  </tr>
-  <tr>
-    <td>Bluetooth PIN</td>
-    <td>Rx, Tx, GND, 5V</td>
-  </tr>
-  <tr>
-    <td>I²C protocol PIN</td>
-    <td>SDA, SCL, GND, 5V</td>
-  </tr>
-  <tr>
-    <td>Length</td>
-    <td>69.35 mm</td>
-  </tr>
-  <tr>
-    <td>Width</td>
-    <td>68.25 mm</td>
-  </tr>
-  <tr>
-    <td>Weight</td>
-    <td>40 g</td>
-  </tr>
-</table>
+| **Feature**               | **Description**                                      |
+|----------------------------|----------------------------------------------------|
+| Microcontroller            | ATmega328P                                         |
+| Operating Voltage          | 5V                                                |
+| Input Voltage (recommended) | 7-12V                                            |
+| Input Voltage (limit)      | 6-18V                                             |
+| DC Current per I/O Pin     | 20 mA                                             |
+| DC Current for 3.3V Pin    | 50 mA                                             |
+| Flash Memory               | 32 KB (ATmega328P), 0.5 KB used by bootloader                        |
+| SRAM                       | 2 KB (ATmega328P)                                 |
+| EEPROM                     | 1 KB (ATmega328P)                                 |
+| Clock Speed                | 16 MHz                                            |
+| BUTTON_BUILTIN             | Button                                            |
+| BUZZER_BUILTIN             | buzzerPin                                         |
+| RGB_BUILTIN                | rgbPin                                            |
+| MOTOR1_BUILTIN             | motor1                                            |
+| MOTOR2_BUILTIN             | motor2                                            |
+| MOTOR3_BUILTIN             | motor3                                            |
+| MOTOR4_BUILTIN             | motor4                                            |
+| Servo Motor PIN            | servoMotor                                        |
+| Analog PIN                 | A0, A1, A2, A3                                    |
+| I/O Digital PIN            | ioRead, ioWrite                                   |
+| nRF24L01 PIN               | nrfTransmit, nrfReceiver                          |
+| Bluetooth PIN              | Rx, Tx, GND, 5V                                   |
+| I²C protocol PIN           | SDA, SCL, GND, 5V                                 |
+| Length                     | 69.35 mm                                          |
+| Width                      | 68.25 mm                                          |
+| Weight                     | 40 g                                             |
+
 
 ## Core Features and Capabilities
 ### 1. Microcontroller Core:
