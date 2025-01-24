@@ -43,13 +43,13 @@ Download the full pinout diagram as PDF [here](https://github.com/thynavy/Micro-
 
 | **Feature**               | **Description**                                      |
 |----------------------------|----------------------------------------------------|
-| Microcontroller            | ATmega328P                                         |
+| Microcontroller                                        rdh| ATmega328P                                         |
 | Operating Voltage          | 5V                                                |
 | Input Voltage (recommended) | 7-12V                                            |
 | Input Voltage (limit)      | 6-18V                                             |
 | DC Current per I/O Pin     | 20 mA                                             |
 | DC Current for 3.3V Pin    | 50 mA                                             |
-| Flash Memory               | 32 KB (ATmega328P), 0.5 KB used by bootloader                        |
+| Flash Memory               | 32 KB (ATmega328P), 0.5 KB used by bootloader     |
 | SRAM                       | 2 KB (ATmega328P)                                 |
 | EEPROM                     | 1 KB (ATmega328P)                                 |
 | Clock Speed                | 16 MHz                                            |
