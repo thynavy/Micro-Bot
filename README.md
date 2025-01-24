@@ -41,9 +41,9 @@ Download the full pinout diagram as PDF [here](https://github.com/thynavy/Micro-
 
 ## Micro:BOT Specifications
 
-| **-------------------  Feature  -------------------------**              | **----------------------------- Description  ---------------------------------------**                                      |
-|----------------------------|----------------------------------------------------|
-| Microcontroller            | ATmega328P                                         |
+| **Feature**                | **Description**                                   |
+|:---------------------------|--------------------------------------------------:|
+| Microcontroller            | ATmega328P                                        |
 | Operating Voltage          | 5V                                                |
 | Input Voltage (recommended) | 7-12V                                            |
 | Input Voltage (limit)      | 6-18V                                             |
