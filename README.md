@@ -39,7 +39,7 @@ Finally, please wash your hands.
 
 Download the full pinout diagram as PDF [here](https://github.com/thynavy/Micro-Bot).
 
-# Tech Specs
+## Technical Specifications
 
 | **Feature**  | **Description**  |
 |------------------|-----------------|
@@ -53,8 +53,22 @@ Download the full pinout diagram as PDF [here](https://github.com/thynavy/Micro-
 | SRAM   | 2 KB (ATmega328P)  |
 | EEPROM   | 1 KB (ATmega328P)   |
 | Clock Speed   | 16 MHz  |
-| BUTTON_BUILTIN  | D6  |
-| Length   | 68.6 mm  |
+| BUTTON_BUILTIN  | Button  |
+| BUZZER_BUILTIN  | buzzerPin  |
+| RGB_BUILTIN  | rgbPin  |
+| MOTOR1_BUILTIN  | motor1  |
+| MOTOR2_BUILTIN  | motor2  |
+| MOTOR3_BUILTIN  | motor3  |
+| MOTOR4_BUILTIN  | motor4  |
+| Servo Motor PIN  | servoMotor  |
+| Analog PIN  | A0, A1, A2, A3  |
+| I/O Digital PIN  | ioPin  |
+| nRF24L01 PIN  | nrfTransmit, nrfReceiver  |
+| Bluetooth PIN  | Rx, Tx, GND, 5V  |
+| I²C protocol PIN  | SDA, SCL, GND, 5V   |
+| Length   | 69.35 mm  |
+| Width   | 68.25 mm  |
+| Weight   | 40 g  |
 
 ## Core Features and Capabilities
 ### 1. Microcontroller Core:
