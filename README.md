@@ -5,7 +5,7 @@ Micro:Bot is an educational board that is a microcontroller board based on the A
 
 ![Micro:BOT](https://github.com/thynavy/Micro-Bot/blob/main/Picture/Micro_BOT_1111.png)
 
-You can find your board's warranty information or any discount [here](https://github.com/thynavy/Micro-Bot/archive/refs/heads/main.zip).
+You can get this file [download](https://github.com/thynavy/Micro-Bot/archive/refs/heads/main.zip).
 
 # **Getting started with Micro:BOT**
 Welcome to Micro:BOT! Before you start controlling the world around you, you'll need to set up the software to program your board. The [Arduino Software (IDE)](https://www.arduino.cc/en/software) allows you to write programs and upload them to your board. Install the Arduino Desktop IDE and To get step-by-step instructions select one of the following link according to your operating system as below:
