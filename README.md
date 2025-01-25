@@ -1,11 +1,11 @@
 # **Micro:BOT Educational Board Overview**
 
 ## Introduction of Micro:Bot
-Micro:Bot is an educational board that is a microcontroller board based on the ATmega328P ([datasheet](https://github.com/thynavy/Micro-Bot)). It is widely used in embedded systems and robotics projects due to its simplicity, low power consumption, and support for a broad range of peripherals. On board Micro:Bot is the basic of robotics with 4 motors, buzzer, button, RGB, servo pinout, IO pinout and with multi protocol communications such as SPI, I2C and UART. The Micro:BOT is designed to offer students, hobbyists, and engineers a robust platform for learning and implementing robotics and automation concepts.
+Micro:Bot is an educational board that is a microcontroller board based on the ATmega328P ([datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf)). It is widely used in embedded systems and robotics projects due to its simplicity, low power consumption, and support for a broad range of peripherals. On board Micro:Bot is the basic of robotics with 4 motors, buzzer, button, RGB, servo pinout, IO pinout and with multi protocol communications such as SPI, I2C and UART. The Micro:BOT is designed to offer students, hobbyists, and engineers a robust platform for learning and implementing robotics and automation concepts.
 
 ![Micro:BOT](https://github.com/thynavy/Micro-Bot/blob/main/Picture/Micro_BOT_1111.png)
 
-You can find your board's warranty information or any discount [here](https://github.com/thynavy/Micro-Bot).
+You can find your board's warranty information or any discount [here](https://github.com/thynavy/Micro-Bot/archive/refs/heads/main.zip).
 
 # **Getting started with Micro:BOT**
 Welcome to Micro:BOT! Before you start controlling the world around you, you'll need to set up the software to program your board. The [Arduino Software (IDE)](https://www.arduino.cc/en/software) allows you to write programs and upload them to your board. Install the Arduino Desktop IDE and To get step-by-step instructions select one of the following link according to your operating system as below:
